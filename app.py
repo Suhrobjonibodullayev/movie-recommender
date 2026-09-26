@@ -233,10 +233,10 @@ st.markdown("""
     <p style='color: #8b949e; max-width: 600px; margin: 0 auto 15px auto;'>
         Ushbu loyiha Machine Learning va Natural Language Processing (NLP) yondashuvlarini amaliyotda qo'llash maqsadida yaratilgan.
     </p>
-    <a href="https://github.com/USERNAME" target="_blank" class="contact-link">
+    <a href="https://github.com/Suhrobjonibodullayev" target="_blank" class="contact-link">
         🐙 GitHub Profilim
     </a>
-    <a href="mailto:your_email@gmail.com" class="contact-link">
+    <a href="mailto:suhrobjonibodullaev@gmail.com" class="contact-link">
         ✉️ Men bilan bog'lanish (Gmail)
     </a>
 </div>
