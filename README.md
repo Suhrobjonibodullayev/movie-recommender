@@ -148,9 +148,9 @@ Seeds in set $I$ are masked out ($S_i = -1.0$) to prevent trivial self-recommend
 ## 📬 Contact & Connect
 
 - **Author:** [Suhrobjon Ibodullayev](https://github.com/Suhrobjonibodullayev)
-- **GitHub:** [@USERNAME](https://github.com/Suhrobjonibodullayev)  
-- **LinkedIn:** [linkedin.com/in/USERNAME](https://linkedin.com/in/Suhrobjonibodullayev)  
-- **Email:** [your_email@gmail.com](mailto:suhrobjonibodullaev@gmail.com)  
+- **GitHub:** [@Suhrobjonibodullayev](https://github.com/Suhrobjonibodullayev)  
+- **LinkedIn:** [linkedin.com/in/Suhrobjonibodullayev](https://linkedin.com/in/Suhrobjonibodullayev)  
+- **Email:** [suhrobjonibodullaev@gmail.com](mailto:suhrobjonibodullaev@gmail.com)  
 
 ---
 <div align="center">
