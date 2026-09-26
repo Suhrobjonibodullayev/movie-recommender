@@ -10,7 +10,7 @@ Dynamically models multi-item user preference vectors in real-time to discover c
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Live Demo](#) • [System Architecture](#-system-architecture--methodology) • [Getting Started](#-getting-started) • [Engineering Highlights](#-engineering-highlights-memory--performance)
+[Live Demo](#https://cinematchaii.streamlit.app) • [System Architecture](#-system-architecture--methodology) • [Getting Started](#-getting-started) • [Engineering Highlights](#-engineering-highlights-memory--performance)
 
 </div>
 
