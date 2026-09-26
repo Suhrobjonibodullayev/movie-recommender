@@ -105,7 +105,7 @@ Seeds in set $I$ are masked out ($S_i = -1.0$) to prevent trivial self-recommend
 ### Local Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/USERNAME/movie-recommender-system.git
+   git clone https://github.com/Suhrobjonibodullayev/movie-recommender-system.git
    cd movie-recommender-system
    ```
 
@@ -147,10 +147,10 @@ Seeds in set $I$ are masked out ($S_i = -1.0$) to prevent trivial self-recommend
 
 ## 📬 Contact & Connect
 
-- **Author:** [Suhrobjon Ibodullayev](https://github.com/USERNAME)
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)  
-- **LinkedIn:** [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)  
-- **Email:** [your_email@gmail.com](mailto:your_email@gmail.com)  
+- **Author:** [Suhrobjon Ibodullayev](https://github.com/Suhrobjonibodullayev)
+- **GitHub:** [@USERNAME](https://github.com/Suhrobjonibodullayev)  
+- **LinkedIn:** [linkedin.com/in/USERNAME](https://linkedin.com/in/Suhrobjonibodullayev)  
+- **Email:** [your_email@gmail.com](mailto:suhrobjonibodullaev@gmail.com)  
 
 ---
 <div align="center">
